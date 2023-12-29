@@ -1,7 +1,4 @@
-# Fredrik James Collyer
-## 21
-
-### Software Engineer
+### 22yo Software Engineer
 
 ---
 
