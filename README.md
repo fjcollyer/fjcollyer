@@ -1,5 +1,3 @@
-### 22yo Software Engineer
-
----
+## 22yo Software Engineer
 
 Text at the bottom
